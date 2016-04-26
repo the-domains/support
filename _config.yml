@@ -1,0 +1,28 @@
+name: support
+favicon: null
+layout_spectrum: 0.030600023921579123
+typography_spectrum: 0.7223998059052974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8236293992958963
+  lightness: 0.13328547729179263
+  saturation: 0.08945886907167733
+  rhythmicContrast: 0.7664779890328646
+purpose: []
